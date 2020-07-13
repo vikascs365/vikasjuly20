@@ -8,6 +8,7 @@ sap.ui.define([
 	return BaseController.extend("com.sap.build.standard.inventoryDemandSupplyAnalysis.controller.App", {
 //changes made by local user
 //Changes made by online user 2
+//Changes made by Local user 1
 		onInit: function () {
 			var oViewModel,
 				oListSelector = this.getOwnerComponent().oListSelector,
