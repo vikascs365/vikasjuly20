@@ -4,7 +4,7 @@ sap.ui.define([
 	"sap/ui/core/routing/History"
 ], function (BaseController, JSONModel, History) {
 	"use strict";
-
+// oDat   online user
 	return BaseController.extend("com.sap.build.standard.inventoryDemandSupplyAnalysis.controller.App", {
 
 		onInit: function () {
